@@ -7,6 +7,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 ---
 
 [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+
 Firebase Hosting: https://bog15-midterm-calculator.web.app/
 
 
